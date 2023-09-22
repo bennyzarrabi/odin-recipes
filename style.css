@@ -1,0 +1,22 @@
+h1, h2 {
+    text-align: center;
+    background-color: aqua;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
+li {
+    padding: 10px;
+}
+
+.mac, .spag, .lasagna {
+    height: auto;
+    width: 500px;
+    margin: auto;
+    border: solid black 2px;
+    display: block;
+}
+
+.description {
+    text-align: center;
+}
